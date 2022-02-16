@@ -67,13 +67,13 @@ void PrintUsage()
 		L"\n"
 		"Backup Operator to Domain Admin (by @mpgn_x64)\n"
 		"\n"
-		"  This tool exist thanks to @filip_dragovic / https://github.com/Wh04m1001 \n"
+		"https://github.com/Wh04m1001 \n"
 		"\n"
 	);
 
 	wprintf(
 		L"Mandatory argument:\n"
-		"  -t <TARGET>      \\\\computer_name (ex: \\\\dc01.pouldard.wizard\n"
+		"  -t <TARGET>      \\\\computer_name (ex: \\\\dc01.oilrig.local\n"
 		"  -o <PATH>        Where to store the sam / system / security files (can be UNC path)\n"
 		"\n"
 		"Optional arguments:\n"
